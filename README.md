@@ -27,7 +27,7 @@ $ git clone https://github.com/Zuck-Ker/kucing
 
 $ cd kucing
 
-$ python ultraHD.py
+$ python ultaHD.py
 
 # Note! 
 
